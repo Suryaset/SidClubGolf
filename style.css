@@ -38,7 +38,7 @@ body {
 #nav h4 {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 body::-webkit-scrollbar {
@@ -96,7 +96,7 @@ video {
 }
 
 #page1 h1 {
-  font-size: 140px;
+  font-size: 120px;
   font-weight: 900;
   position: relative;
 }
@@ -112,14 +112,14 @@ video {
 }
 
 #page1 h2 {
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 800;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 
 #page1 p {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
   width: 47%;
 }
@@ -220,13 +220,13 @@ video {
 }
 
 #about-us-in h3 {
-  font-size: 54px;
+  font-size: 45px;
   font-weight: 700;
   margin-bottom: 40px;
 }
 
 #about-us-in p {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 26px;
 }
 
@@ -331,9 +331,9 @@ video {
 }
 
 #page3 > p {
-  font-size: 35px;
+  font-size: 32px;
   font-weight: 700;
-  line-height: 45px;
+  line-height: 43px;
   width: 60%;
   text-align: center;
 }
